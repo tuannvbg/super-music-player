@@ -15,7 +15,7 @@ var t = {
 		  trackAlbum: "Single",
 		},
 		{
-		  file: "tracks/03.mp3",
+		  file: "http://awtupdateserve.oss-cn-shanghai.aliyuncs.comtracks/03.mp3",
 		  thumb: "http://awtupdateserve.oss-cn-shanghai.aliyuncs.com/thumbs/03.jpg",
 		  trackName: "Fade",
 		  trackArtist: "Alan Walker",
