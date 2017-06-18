@@ -36,6 +36,6 @@ var t = {
 			trackAlbum: "Single",
 		}
 	],
-	autoPlay:true
+	autoPlay:false
 };
 $(".jAudio--player").jAudio(t);
